@@ -1,0 +1,28 @@
+GitHub - Fontes
+
+Geral
+	https://github.com/marciodelima/case1_santander_engml_geral.git
+
+FrontEnd
+	https://github.com/marciodelima/case1_santander_engml_frontend.git	
+	
+BackEnd
+	https://github.com/marciodelima/case1_santander_engml_backend.git
+	
+
+
+Token - 60 dias
+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
+
+
+Token-AzureDevOps
+2olvfwxlvd7hb4xcgw23wlnne52xzrvwtfeaxtbkqd4nk5oeisnq
+
+
+<!-- https://mvnrepository.com/artifact/com.microsoft.azure/azure-eventhubs-spark -->
+<dependency>
+    <groupId>com.microsoft.azure.azure-eventhubs-spark_2.12</groupId>
+    <artifactId>azure-eventhubs-spark_2.12</artifactId>
+    <version>2.3.15</version>
+</dependency>
+
